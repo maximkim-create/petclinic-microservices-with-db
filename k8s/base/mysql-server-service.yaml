@@ -30,5 +30,5 @@ metadata:
 spec:
   type: ExternalName
   externalName: petclinic.c1fl2gtfv4km.us-east-1.rds.amazonaws.com
- # Change this line with the endpoint of your RDS.
+ 
 
